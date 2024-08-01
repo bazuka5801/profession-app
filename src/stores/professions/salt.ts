@@ -2,8 +2,8 @@ import { Profession } from '.'
 
 export const profession = {
   name: 'Производитель вулканической соли',
-  className: 'text-white bg-gradient-to-r from-rose-400 to-red-500',
-  icon: 'work',
+  className: 'bg-gradient-to-r from-slate-500 to-slate-800',
+  icon: 'hiking',
   description: `#### Рассказ о традиационном производстве вулканической соли
   :::
    Проект создан
