@@ -2,8 +2,8 @@ import { Profession } from '.'
 
 export const profession = {
   name: 'консьерж робототехники',
-  className: 'text-white bg-gradient-to-r from-rose-400 to-red-500',
-  icon: 'work',
+  className: 'text-white bg-gradient-to-r from-violet-500 to-purple-500',
+  icon: 'android',
   description: `#### Рассказ о консьерже робототехники
   :::
   Узнать подробнее про [профессию](https://start.business.russpass.ru/map/hotels/consierge-robototech?ysclid=lzaxmmp4pw65190133)
