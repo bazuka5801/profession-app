@@ -3,8 +3,8 @@ import { Profession } from '.'
 export const profession = {
   name: 'Дизайнер дополнительной реальности территорий',
   audioPath: '/audio/augment-reality-designer-territory.mp3',
-  className: 'text-white bg-gradient-to-r from-orange-200 to-lime-200',
-  icon: 'Laptop Mac',
+  className: 'text-black bg-gradient-to-r from-orange-200 to-lime-200',
+  icon: 'laptop_mac',
   description: `#### Рассказ о дизайнере дополнительной реальности территорий
 
   Дизайнер дополнительной реальности территорий - разрабатывает различные пласты дополнительной реальности для определенной территории с учетом её ландшафта

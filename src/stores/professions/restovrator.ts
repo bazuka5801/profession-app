@@ -5,8 +5,11 @@ export const profession = {
   className: 'bg-gradient-to-bl from-rose-200 to-teal-100',
   icon: 'book',
   description: `#### Рассказ о Реставраторе книг
+     
+
   :::
-  here be **dragons** https://theoryandpractice.ru/posts/18202-u-nas-net-prava-na-oshibku-professiya-restavrator?ysclid=lz9zojyx2698695415https://theoryandpractice.ru/posts/18202-u-nas-net-prava-na-oshibku-professiya-restavrator?ysclid=lz9zojyx26986954158
+  https://theoryandpractice.ru/posts/18202-u-nas-net-prava-na-oshibku-professiya-restavrator
+  :::
   Реставратор книг-это не просто мастер, который умеет клеить и сшивать, это настоящий художник, историк, и детектив в одном лице.
   **Основные характеристики реставратора книг:**
   - **Любовь к книгам:** Самое важное качество. Без страсного интереса к книгам, их истории и значению, невозможно с душой погружаться в работу.

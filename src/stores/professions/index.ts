@@ -7,7 +7,6 @@ import * as penguinFlipper from './penguinFlipper'
 import * as restovrator from './restovrator'
 import * as salt from './salt'
 import * as shinshily from './shinshily'
-import * as slesar from './slesar'
 // @endindex
 
 export type Profession = {
@@ -27,7 +26,6 @@ export const professions = [
   penguinFlipper.profession,
   restovrator.profession,
   salt.profession,
-  shinshily.profession,
-  slesar.profession
+  shinshily.profession
   // @endindex
 ] as const satisfies Profession[]

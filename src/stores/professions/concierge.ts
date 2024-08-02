@@ -1,7 +1,7 @@
 import { Profession } from '.'
 
 export const profession = {
-  name: 'консьерж робототехники',
+  name: 'Консьерж робототехники',
   className: 'text-white bg-gradient-to-r from-violet-500 to-purple-500',
   icon: 'android',
   audioPath: '/audio/concierge.mp3',

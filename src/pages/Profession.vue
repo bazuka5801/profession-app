@@ -39,7 +39,6 @@ function createWavesurfer() {
   if (!('audioPath' in profession.value)) {
     return
   }
-  const path = profession.value.audioPath
   if (!profession.value.audioPath) return
   wavesurfer = WaveSurfer.create({
     container: '#waveform',
