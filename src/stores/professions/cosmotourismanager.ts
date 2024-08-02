@@ -1,9 +1,10 @@
 import { Profession } from '.'
 
-export const poprofession = {
+export const profession = {
   name: 'Менеджер Космотуризма',
   className: 'text-white bg-gradient-to-r from-indigo-300 to-slate-700',
   icon: 'stars',
+  audioPath: '/audio/cosmosturizma2.mp3',
   description: `#### Рассказ о Менеджере космотуризма
   :::
   here be **dragons**

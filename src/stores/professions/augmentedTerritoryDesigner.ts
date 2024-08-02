@@ -4,6 +4,8 @@ export const profession = {
   name: 'Дизайнер дополнительной реальности территорий',
   className: 'text-white bg-gradient-to-r from-rose-400 to-red-500',
   icon: 'work',
+
+  audioPath: '/audio/augment-reality-designer-territory.mp3',
   description: `#### Рассказ о дизайнере дополнительной реальности территорий
   :::
   here be **dragons**

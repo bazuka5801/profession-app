@@ -2,8 +2,9 @@ import { Profession } from '.'
 
 export const profession = {
   name: 'Инфостилист',
-  className: 'text-white-bg-gradient-to-r from-red-500 to-orange-500',
+  className: 'text-white bg-gradient-to-r from-red-500 to-orange-500',
   icon: 'accessible_forward',
+  audioPath: '/audio/infostylist.mp3',
   description: `#### Рассказ о инфостилисте
  :::
    [Дополнительная информация о инфостилисте](https://postupi.online/journal/kem-stat/kto-takoy-infostilist-i-kak-poluchit-etu-professiyu-budushchego/)

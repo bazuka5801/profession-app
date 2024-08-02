@@ -4,6 +4,7 @@ export const profession = {
   name: 'Слесарь будущего',
   className: 'text-white bg-gradient-to-r from-rose-400 to-red-500',
   icon: 'work',
+  audioPath: '/audio/perevorachivatel2.mp3',
   description: `#### Рассказ о Слесаре будущего
   :::
   here be **dragons**

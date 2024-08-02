@@ -2,10 +2,14 @@
 export default {
   content: [
     './index.html',
-    './src/**/*.{html,js,vue}'],
+    './src/**/*.{html,js,vue,ts}'],
 
   theme: {
     extend: {}
   },
-  plugins: [require('tailwindcss-safe-area'), require('@tailwindcss/typography')]
+  plugins: [require('tailwindcss-safe-area'), require('@tailwindcss/typography')],
+
+  corePlugins: {
+    preflight: false
+  }
 }
